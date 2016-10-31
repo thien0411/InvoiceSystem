@@ -1,0 +1,7 @@
+#InvoiceSystem
+Name: Thien Nguyen, Peter Barnes
+Date: 12/15/2015 
+Description: This is a database-backed application in java. 
+The scope of this project is to design and implement a new invoice system for Air America Airline. 
+The new invoice system will generate the reports which include customers' name, address, and contact information, their flight details and calculate the subtotal, fees, taxes and total amount of money. 
+We also designed database to store data and provide intuitive data relationship among entries. 

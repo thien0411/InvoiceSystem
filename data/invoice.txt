@@ -1,0 +1,172 @@
+Executive Summary Report
+=========================
+Invoice    Customer                                           SalesPerson            Subtotals        Fee       Taxes        Discount      Total
+INV001     Cinco Consultants(C)                               Chris,Eccleston        $ 2357.60        $ 40.00   $ 190.19     $ -282.91      $ 2304.88
+INV002     Stark Associates(G)                                Online                 $ 321.14         $ 0.00    $ 45.99      $ -0.00        $ 367.13
+INV003     Mr Steve Odelay(C)                                 David,Tennant          $ 136.70         $ 40.00   $ 24.20      $ -16.40       $ 184.50
+INV004     United States Postal Service(V)                    Richard,Hurndall       $ 1922.96        $ 0.00    $ 192.32     $ -192.32      $ 1922.96
+======================================================================================================================================================
+TOTALS                                                                               $ 4738.41        $ 80.00   $ 452.70     $ -491.63      $ 4779.48Individual Invoice Detail Reports
+==================================================
+Invoice INV001
+------------------------------------------------------------------------------------------------------------
+AIR AMERICA                                                                              PNR
+IssueDate: Aug 03,2015                                                                   PPGPBY
+------------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day, Date    Flight     Class      DepartureCity and Time         ArrivalCity and Time           Aircraft  
+Sun,13Sep15  NA2222     BC          Los Angeles,CA                Atlanta,GA                     Boeing757 
+                                    (LAX) 09:30AM                 (ATL) 03:55PM
+           Traveller                      Age        SeatNo         
+           Sveum, Dale                    23         12A            
+           Fox, Bud                       26         12B            
+      *Operated by Skywest
+------------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION:
+       Cinco Consultants (C001)
+       [Corporate]
+       Baker,Tom
+       1 Blue Jays Way
+        Toronto  ON  M5V 1J1  Canada
+Salesperson: Eccleston,  Chris
+------------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                               SubTotal        Tax           Total
+1255       StandardTicket (BC) LAX to ATL (1933.85 miles)                                     $ 1933.85       $ 173.24      $ 2107.09
+           (2 units @ $966.93/units)
+90fa       Bagage ( 3 units @ 25.00 for 1st and $35.00 onwards                                $ 95.00         $ 3.80        $ 98.80
+fh23       Insurance NationalInsurance (21-60)                                                $ 328.75        $ 13.15       $ 341.90
+           (2 units @ 0.09 perMile x 1933.85 miles)
+                                                                                              =======================================
+SUB-TOTALS                                                                                    $ 2357.60       $ 190.19      $ 2547.79
+DISCOUNT (12.00% of SUBTOTAL)                                                                                               $ -282.91    
+ADDITIONAL FEE                                                                                                              $ 40.00     
+TOTAL                                                                                                                       $ 2304.88   
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Invoice INV002
+------------------------------------------------------------------------------------------------------------
+AIR AMERICA                                                                              PNR
+IssueDate: Jan 10,2015                                                                   LN8L3C
+------------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day, Date    Flight     Class      DepartureCity and Time         ArrivalCity and Time           Aircraft  
+Sat,12Sep15  NA4889     EC          Lincoln, NE                   Atlanta,GA                     CRJ900    
+                                    (LNK) 06:00AM                 (ATL) 09:08AM
+           Traveller                      Age        SeatNo         
+           Pertwee, Jon                   43         32C            
+      *None
+Tue,22Sep15  NA4871     EC         Atlanta,GA                      Lincoln, NE                   CRJ900    
+                                    (ATL) 09:15PM                 (LNK) 10:42PM
+           Traveller                      Age        SeatNo         
+           Pertwee, Jon                   43         12C            
+      *None
+------------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION:
+       Stark Associates (C002)
+       [General] 
+       Castro, Starlin
+       1060 West Addison Street
+       Chicago IL 60613 USA
+SalesPerson: ONLINE,null
+------------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                               SubTotal        Tax           Total
+1240       OffSeasonTicket (EC) LNK to ATL (832.8 miles) 0.0% off                             $ 144.92        $ 24.97       $ 169.89
+           (1 units @ $144.92/units with $20.00 fee)
+1241       StandardTicket (EC) ATL to LNK (832.8 miles)                                       $ 124.92        $ 18.97       $ 143.89
+           (1 units @ $124.92/units)
+32f4       Italian Buffet (3 units @ 18.0% off)                                               $ 51.30         $ 2.05        $ 53.35
+xer4       Special Assistance for [Pertwee Jon] (BabyBassinet)                                $ 0.00          $ 0.00        $ 0.00
+                                                                                              =======================================
+SUB-TOTALS                                                                                    $ 321.14        $ 45.99       $ 367.13
+DISCOUNT (NONE)                                                                                                             $ -0.00      
+ADDITIONAL FEE                                                                                                              $ 0.00      
+TOTAL                                                                                                                       $ 367.13    
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Invoice INV003
+------------------------------------------------------------------------------------------------------------
+AIR AMERICA                                                                              PNR
+IssueDate: Sep 10,2015                                                                   2G8FEP
+------------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day, Date    Flight     Class      DepartureCity and Time         ArrivalCity and Time           Aircraft  
+Thu,17Dec15  NA4889     EC          Lincoln, NE                   Atlanta,GA                     CRJ900    
+                                    (LNK) 06:00AM                 (ATL) 09:08AM
+           Traveller                      Age        SeatNo         
+           O'Brien, Miles                 72         17G            
+      *CareNeeded
+------------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION:
+       Mr Steve Odelay (C004)
+       [Corporate]
+       Fox, Bud
+       321 Bronx Street
+       New York NY 10004 USA
+Salesperson: Tennant,  David
+------------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                               SubTotal        Tax           Total
+1240       OffSeasonTicket (EC) LNK to ATL (832.8 miles) 10.0% off                            $ 132.43        $ 24.03       $ 156.46
+           (1 units @ $132.43/units with $20.00 fee)
+xer1       Special Assistance for [O'Brien Miles] (PrioritySeating)                           $ 0.00          $ 0.00        $ 0.00
+31f4       Labbat-Beer-15oz (1 units @ 4.5% off)                                              $ 4.28          $ 0.17        $ 4.45
+                                                                                              =======================================
+SUB-TOTALS                                                                                    $ 136.70        $ 24.20       $ 160.91
+DISCOUNT (12.00% of SUBTOTAL)                                                                                               $ -16.40     
+ADDITIONAL FEE                                                                                                              $ 40.00     
+TOTAL                                                                                                                       $ 184.50    
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Invoice INV004
+------------------------------------------------------------------------------------------------------------
+AIR AMERICA                                                                              PNR
+IssueDate: Oct 16,2015                                                                   YR1SKO
+------------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day, Date    Flight     Class      DepartureCity and Time         ArrivalCity and Time           Aircraft  
+Fri,08Jan16  N725       EP          Chicago, IL                   Phoenix,AZ                     Airbus-A319
+                                    (ORD) 09:09AM                 (PHX) 11:06AM
+           Traveller                      Age        SeatNo         
+           O'Brien, Miles                 34         32F            
+           O'Brien, Miles                 31         21A            
+           Baker,Tom                      12         32D            
+      *Operated by Southwest
+Mon,28Mar16  N2000      BC         Phoenix,AZ                      Chicago, IL                   Airbus-A320
+                                    (PHX) 02:24PM                 (ORD) 07:56PM
+           Traveller                      Age        SeatNo         
+           Baker,Tom                      12         10B            
+           O'Brien, Miles                 31         10C            
+      *None
+------------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION:
+       United States Postal Service (C003)
+       [Goverment]
+       Sampson, Brock
+       123 N 1st Street
+       Omaha NE 68116 USA
+Salesperson: Hurndall,  Richard
+------------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                               SubTotal        Tax           Total
+1260       AwardTicket (EP) ORD to PHX (1450.37 miles)                                        $ 30.00         $ 44.55       $ 74.55
+           (3 units @ 31908 reward miles/unit with $30.0 ReedemptionFee)
+1262       OffSeasonTicket (BC) PHX to ORD (1450.37 miles) 15.0% off                          $ 1252.81       $ 122.16      $ 1374.98
+           (2 units @ $626.41/units with $20.00 fee)
+fg23       Insurance Progressive (21-54)                                                      $ 348.09        $ 13.92       $ 362.01
+           (3 units @ 0.08 perMile x 1450.37 miles)
+90fc       Bagage ( 2 units @ 25.00 for 1st and $35.00 onwards                                $ 60.00         $ 2.40        $ 62.40
+fg23       Insurance Progressive (21-54)                                                      $ 232.06        $ 9.28        $ 241.34
+           (2 units @ 0.08 perMile x 1450.37 miles)
+                                                                                              =======================================
+SUB-TOTALS                                                                                    $ 1922.96       $ 192.32      $ 2115.28
+DISCOUNT (NO TAX)                                                                                                           $ -192.32    
+ADDITIONAL FEE                                                                                                              $ 0.00      
+TOTAL                                                                                                                       $ 1922.96   
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
